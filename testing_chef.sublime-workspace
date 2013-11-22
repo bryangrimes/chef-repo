@@ -1,0 +1,550 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"worl",
+				"worklogs"
+			],
+			[
+				"work",
+				"worklogs"
+			],
+			[
+				"data",
+				"dataReturn"
+			],
+			[
+				"load",
+				"loadUser"
+			],
+			[
+				"po",
+				"post_change_to_jira"
+			],
+			[
+				"templ",
+				"templateModule"
+			],
+			[
+				"fiel",
+				"fieldName"
+			],
+			[
+				"offer",
+				"offerData"
+			],
+			[
+				"Offer",
+				"OfferName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cookbooks/apache/recipes/default.rb",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/PlantUML.sublime-build",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"marke",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"ry",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Bryan/.bash_profile",
+		"/Users/Bryan/Dropbox/EP/Chef/chef/.chef/knife.rb",
+		"/Users/Bryan/.bash_",
+		"/Users/Bryan/.bashrc",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/app/js/lib/ng-grid/ng-grid.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/test/prototype/pastFilterSpec.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/routes/providers/provider-mongodb.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/config/acme_config.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/routes/providers/mongodb-helper.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/package.json",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/app/partials/campaign-edit.html",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/app/js/lib/ng-grid/ng-grid-2.0.6a.debug.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/app/js/controllers/controller-helper.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/acme_server.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/routes/api.js",
+		"/Users/Bryan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/test/unit/genPopControllerSpec.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/config/acme_config.bak.js",
+		"/Users/Bryan/Desktop/pricing.xml",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/app/index.html",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/config/config_dev.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/test/mocha/providerMongoDbSpec.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/test/mocha/providerMongoCampaignRuleSpec.js",
+		"/Users/Bryan/Dropbox/EP/Javascript/EP.SalesCampaign/acme/app/js/controllers.js",
+		"/Users/Bryan/.gitconfig",
+		"/Users/Bryan/Desktop/Soloarized Light.terminal",
+		"/Users/Bryan/Desktop/EP.OAuth.md",
+		"/Users/Bryan/Dropbox/Dev Tools and Stuff/Sublime Packages and Settings/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Bryan/Desktop/OAuth.txt",
+		"/Users/Bryan/Dropbox/Dev Tools and Stuff/Sublime Packages and Settings/Packages/User/PlantUML.sublime-build",
+		"/Users/Bryan/Dropbox/Dev Tools and Stuff/Sublime Packages and Settings/Packages/sublime_diagram_plugin/diagram/test.txt",
+		"/Users/Bryan/Dropbox/Dev Tools and Stuff/Sublime Packages and Settings/Packages/sublime_diagram_plugin/diagram/text.txt",
+		"/Users/Bryan/Desktop/Mar15_Prod-67.txt",
+		"/Users/Bryan/Dropbox/EP/NET/EP.UIClients/Apps/offer/test/specs/componentsSpec.js",
+		"/Users/Bryan/Dropbox/EP/NET/EP.UIClients/Apps/offer/scripts/utils/components.js",
+		"//ep-web02/c$/inetpub/EPServices/NLog.config",
+		"/Users/Bryan/Dropbox/EP/NET/EP.UIClients/Apps/offer/views/site/search.html",
+		"/Users/Bryan/Dropbox/EP/NET/EP.UIClients/Apps/offer/views/partials/components.html",
+		"/Users/Bryan/Dropbox/EP/NET/EP.UIClients/Apps/offer/test/SpecRunner.html",
+		"//epiis02/c$/inetpub/EPRest/QA/Web.config",
+		"//epiis02/c$/logs.PT/ep.soa.txt",
+		"//epiis02/c$/inetpub/EPWeb/SOA/QA/Web.config",
+		"//ep-web02/c$/logs/ep.soa.txt",
+		"/C/logs.local/ep.soa.txt",
+		"//ep-web02/c$/logs/epnet2.mvc.txt",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/scripts/controllers/searchCtrl.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.SOA/EP.SOA/EP.SOA.WCF.Host/Web.Debug.config",
+		"//epiis02/c$/inetpub/EPPricing/PT/Web.config",
+		"//epiis02/c$/inetpub/EPPricing/QA/Web.config",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/styles/app.css",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/scripts/utils/ep.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/index.html",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/scripts/services/helperService.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/scripts/app.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/scripts/directives/switch.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/views/partials/components.html",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/views/site/details.html",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/scripts/controllers/detailsCtrl.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/scripts/factories/offerFactory.js",
+		"/C/Stuff/Dropbox/EP/Javascript/EP.SalesCampaign/acme/config/acme_config.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/scripts/utils/components.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/scripts/controllers/createCtrl.js",
+		"//epiis02/c$/inetpub/EPNet/PT/Web.config",
+		"/C/Users/bgrimes/Desktop/jasmine/SpecRunner.html",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/test/SpecRunner.html",
+		"/C/Users/bgrimes/Desktop/SpecRunner.html",
+		"/C/Users/bgrimes/Desktop/jasmine-1.3.1/jasmine.js",
+		"/C/Users/bgrimes/Desktop/jasmine-1.3.1/jasmine-html.js",
+		"/C/Users/bgrimes/Desktop/jasmine-1.3.1/jasmine.css",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/test/specs/componentsSpec.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/test/specs/componentSpecHelper.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/js/controllers.js",
+		"/C/Users/bgrimes/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Stuff/Dropbox/EP/Ruby/harvester/spec/cli_spec.rb",
+		"/C/Stuff/Dropbox/Projects/helloflask/venv/Procfile",
+		"/C/Stuff/Dropbox/Projects/helloflask/venv/app.py",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/grid.html",
+		"/C/Stuff/Dropbox/EP/Inside Sales/ACME/routes/api.js",
+		"/C/Stuff/Dropbox/EP/Inside Sales/ACME/app.js",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/spec/AngularSpec.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/jasmine/spec/controllersSpec.js",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/app/index.html",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/SpecRunner.html",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/partials/search.html",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Proxy/Web.config",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/jasmine/SpecRunner.html",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/js/searchfilters.js",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/scripts/server.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/scripts/server.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/jasmine/lib/jasmine.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/jasmine/lib/jasmine.css",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/.gitignore",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/spec/UserSpec.js",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/app/data/jira_users.json",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/app/data/rates.json",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/spec/SpecHelper.js",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/spec/MockedProfitSpec.js",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/app/js/UserAccess.js",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/app/js/userController.js",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/app/js/JiraController.js",
+		"//epiis03/c$/inetpub/EP-UIClient/QA/Apps/offer/js/config/config_qa.js",
+		"//epiis03/c$/inetpub/EP-UIClient/QA/Apps/offer/js/config/config.js",
+		"//epiis03/c$/inetpub/EP-UIClient/QA/Apps/offer/js/config/config_dev.js",
+		"//epiis03/c$/inetpub/EP-UIClient/QA/Apps/offer/js/controllers.js",
+		"//epiis03/c$/inetpub/EP-UIClient/QA/Apps/offer/js/services.js",
+		"//epiis03/c$/inetpub/EP-UIClient/QA/Apps/offer/js/app.js",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/app/data/users.json",
+		"//ep-web02/c$/inetpub/EPServices/Web.config",
+		"//epiis02/c$/inetpub/EPWeb/SOA/PT/Web.config",
+		"/C/Users/bgrimes/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"//epiis02/c$/inetpub/EPWeb/MVC/QA/Web.config",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/src/index.html",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/common/users.json",
+		"/C/Stuff/Dropbox/EP/Javascript/JiraTime/src/jira.js",
+		"/C/Stuff/Dropbox/EP/Javascript/jira-time/SpecRunner.html",
+		"/C/Stuff/Dropbox/EP/Javascript/OfferUI/app/js/services.js",
+		"/C/Stuff/Dropbox/EP/NET/EP.UIClients/Apps/offer/js/services.js",
+		"/C/Stuff/Dropbox/EP/Javascript/jira-time/index.html",
+		"/C/Stuff/Dropbox/EP/Javascript/jira-time/taffydb/taffy.js",
+		"/C/Users/bgrimes/Desktop/OfferAPISearch_20121108.json",
+		"/C/Users/bgrimes/Desktop/Fixed UI Mocks/UImock/index.html",
+		"/C/Users/bgrimes/Desktop/Fixed UI Mocks/UImock/searchDump_OferAPI.json",
+		"//epiis02/C$/inetpub/EPPricing/QA/Web.config",
+		"//epiis02/C$/inetpub/EPNet/QA/web.config",
+		"//epiis02/C$/inetpub/EPWeb/SOA/QA/Web.config",
+		"/C/Users/bgrimes/Desktop/reps.csv",
+		"/C/Users/bgrimes/Desktop/supers.csv",
+		"/C/Users/bgrimes/Desktop/SrDir.csv"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"C:\\Stuff\\Dropbox\\EP\\Javascript\\OfferUI",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"toEqual",
+			"actual",
+			"Campai",
+			"processAgentChangeItem",
+			"getPro",
+			"fulls",
+			"SegfaultHandler",
+			"8D54CC",
+			"Utility",
+			".0889",
+			"8D54CC",
+			"Agents",
+			"SegfaultHandler",
+			"/api",
+			"scripts",
+			"getMasterData",
+			"getCampaignById",
+			"getAllCampaigns",
+			"all",
+			"getUserDataForUserName",
+			"mongoose",
+			"mongo",
+			"SysInfo",
+			"ng-Grid",
+			"initializeGrid",
+			"ng-grid",
+			"alias",
+			"add",
+			"remote",
+			"_generateHash",
+			">\n",
+			"offerComponents",
+			"result",
+			"record['active']",
+			"Actions",
+			"msg-pane",
+			"width: 94%;",
+			"createNewRecord",
+			"Select",
+			"Select Utility Abbreviation",
+			"PricingPT",
+			"eval(",
+			"eval",
+			"offerChannelSet",
+			"ext ",
+			"$",
+			"projectLog",
+			"\nprojectLog",
+			"getLoggedWork",
+			"getUserTime",
+			">\n",
+			"sys.pu",
+			"getUserTimeRedux",
+			",",
+			"71",
+			", ",
+			"Release00",
+			"69",
+			"Release0069",
+			"\" ",
+			"getFirst",
+			"getfirst",
+			"69",
+			"[",
+			"]",
+			"] ",
+			"*/\n",
+			"epapidev",
+			"epapidev\n",
+			"];\n",
+			"\"",
+			"OfferProvider",
+			"-",
+			"qa",
+			"epservices-qa",
+			"QA",
+			"qa",
+			"localhost/EP.SOA",
+			"cursor",
+			"phonecatServices",
+			"Reserved.ReportViewerWebControl.axd",
+			"reportviewerwe",
+			"/>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ext_",
+			"^p",
+			"",
+			",",
+			"",
+			"ep-api-dev",
+			"'",
+			"",
+			"epservices-pt"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cookbooks/apache/recipes/default.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 241.0
+	},
+	"project": "testing_chef.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Bryan/Desktop/EP.OAuth.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
